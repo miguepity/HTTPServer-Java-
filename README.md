@@ -1,2 +1,2 @@
 # HTTPServer-Java-
-Proyecto de Sistemas Operativos 1 Servidor Web en Java
+Pequeño server para request de HTTP para la clase de Sistemas Operativos1.
